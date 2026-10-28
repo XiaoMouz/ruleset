@@ -1,0 +1,15 @@
+{
+  "name": "ruleset",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run src/build.ts",
+    "test": "bun run test/run.ts",
+    "test:surge": "bun run test/run.ts surge-local",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.0",
+    "typescript": "^5.9.0"
+  }
+}
