@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "ubisoftconnect.eo-edgefunctions7.com",
+        "uplaypc-s-ubisoft.cdn.ubionline.com.cn"
+      ],
+      "domain_suffix": [
+        "cdn.ubi.com"
+      ]
+    }
+  ]
+}

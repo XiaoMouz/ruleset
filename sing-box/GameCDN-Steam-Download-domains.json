@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn-ali.content.steamchina.com",
+        "cdn-qc.content.steamchina.com",
+        "cdn-ws.content.steamchina.com",
+        "dl.steam.clngaa.com",
+        "edge.steam-dns.top.comcast.net",
+        "lv.queniujq.cn",
+        "st-bak.viv.wanwang.space",
+        "st.dl.bscstorage.net",
+        "st.dl.eccdnx.com",
+        "steam.eca.qtlglb.com",
+        "steam.naeu.qtlglb.com",
+        "steam.ru.qtlglb.com",
+        "steampipe-kr.akamaized.net",
+        "steampipe-partner.akamaized.net",
+        "steampipe.akamaized.net",
+        "steamusercontent-a.akamaihd.net",
+        "trts.baishancdnx.cn",
+        "xz.pphimalayanrt.com"
+      ],
+      "domain_suffix": [
+        "steamcontent.com"
+      ]
+    }
+  ]
+}

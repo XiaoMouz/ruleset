@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bahamut.akamaized.net",
+        "bahamut.com.tw",
+        "gamer.com.tw"
+      ]
+    }
+  ]
+}

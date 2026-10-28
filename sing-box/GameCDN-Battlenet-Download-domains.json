@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "blizzard.gcdn.cloudn.co.kr",
+        "blizzard.vo.llnwd.net",
+        "blzddist1-a.akamaihd.net",
+        "blzddist2-a.akamaihd.net",
+        "blzddist3-a.akamaihd.net",
+        "blzddistkr1-a.akamaihd.net",
+        "blzdist-d3.necdn.leihuo.netease.com",
+        "blzdist-di.necdn.leihuo.netease.com",
+        "blzdist-hs.necdn.leihuo.netease.com",
+        "blzdist-ow.necdn.leihuo.netease.com",
+        "blzdist-phx.necdn.leihuo.netease.com",
+        "blzdist-wow.necdn.leihuo.netease.com",
+        "dist.blizzard.com",
+        "dist.blizzard.com.edgesuite.net",
+        "edge.blizzard.top.comcast.net",
+        "level3.blizzard.com",
+        "level3.ssl.blizzard.com",
+        "nydus.battle.net",
+        "blizzard.nefficient.co.kr"
+      ],
+      "domain_suffix": [
+        "cdn.blizzard.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api1.origin.com",
+        "api2.origin.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "launcher-public-service-prod06.ol.epicgames.com"
+      ]
+    }
+  ]
+}

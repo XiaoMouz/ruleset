@@ -1,0 +1,4 @@
+# Grok-domains
+payload:
+  - 'DOMAIN-SUFFIX,x.ai'
+  - 'DOMAIN-SUFFIX,grok.com'

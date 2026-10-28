@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "cdn.unrealengine.com",
+        "cdn1.epicgames.com",
+        "cdn1.unrealengine.com",
+        "cdn2.epicgames.com",
+        "cdn2.unrealengine.com",
+        "cdn3.unrealengine.com",
+        "cloudflare.epicgamescdn.com",
+        "download.epicgames.com",
+        "download2.epicgames.com",
+        "download3.epicgames.com",
+        "download4.epicgames.com",
+        "egs-cloudfront-chunks.epicgamescdn.com",
+        "epicgames-download1-1251447533.file.myqcloud.com",
+        "epicgames-download1.akamaized.net",
+        "fastly-download.epicgames.com"
+      ],
+      "domain_suffix": [
+        "egdownload.fastly-edge.com"
+      ]
+    }
+  ]
+}

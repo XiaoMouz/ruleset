@@ -1,0 +1,8 @@
+# GameCDN-EA-Download-domains
+payload:
+  - 'DOMAIN,cdn-patch.swtor.com'
+  - 'DOMAIN,download.dm.origin.com'
+  - 'DOMAIN,lvlt.cdn.ea.com'
+  - 'DOMAIN,origin-a.akamaihd.net'
+  - 'DOMAIN,prod.cloudflare.cdn.ea.com'
+  - 'DOMAIN,ssl-lvlt.cdn.ea.com'

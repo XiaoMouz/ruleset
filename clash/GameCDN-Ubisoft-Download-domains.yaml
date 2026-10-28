@@ -1,0 +1,5 @@
+# GameCDN-Ubisoft-Download-domains
+payload:
+  - 'DOMAIN,ubisoftconnect.eo-edgefunctions7.com'
+  - 'DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn'
+  - 'DOMAIN-SUFFIX,cdn.ubi.com'

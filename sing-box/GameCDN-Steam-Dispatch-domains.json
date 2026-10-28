@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "api.steampowered.com"
+      ],
+      "domain_suffix": [
+        "cm.steampowered.com",
+        "steamserver.net"
+      ]
+    }
+  ]
+}

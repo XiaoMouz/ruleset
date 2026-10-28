@@ -1,0 +1,4 @@
+# Facebook-heuristic
+payload:
+  - 'DOMAIN-KEYWORD,facebook'
+  - 'DOMAIN-KEYWORD,fbcdn'

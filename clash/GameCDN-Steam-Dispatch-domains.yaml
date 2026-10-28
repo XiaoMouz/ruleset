@@ -1,0 +1,5 @@
+# GameCDN-Steam-Dispatch-domains
+payload:
+  - 'DOMAIN,api.steampowered.com'
+  - 'DOMAIN-SUFFIX,cm.steampowered.com'
+  - 'DOMAIN-SUFFIX,steamserver.net'

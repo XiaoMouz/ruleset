@@ -1,0 +1,3 @@
+# apns-heuristic
+payload:
+  - 'DOMAIN-KEYWORD,apple.com.edgekey.net'

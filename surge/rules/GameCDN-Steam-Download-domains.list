@@ -1,0 +1,20 @@
+# GameCDN-Steam-Download-domains
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,cdn-ws.content.steamchina.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,edge.steam-dns.top.comcast.net
+DOMAIN,lv.queniujq.cn
+DOMAIN,st-bak.viv.wanwang.space
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,steam.eca.qtlglb.com
+DOMAIN,steam.naeu.qtlglb.com
+DOMAIN,steam.ru.qtlglb.com
+DOMAIN,steampipe-kr.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,trts.baishancdnx.cn
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN-SUFFIX,steamcontent.com

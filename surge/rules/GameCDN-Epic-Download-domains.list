@@ -1,0 +1,17 @@
+# GameCDN-Epic-Download-domains
+DOMAIN,cdn.unrealengine.com
+DOMAIN,cdn1.epicgames.com
+DOMAIN,cdn1.unrealengine.com
+DOMAIN,cdn2.epicgames.com
+DOMAIN,cdn2.unrealengine.com
+DOMAIN,cdn3.unrealengine.com
+DOMAIN,cloudflare.epicgamescdn.com
+DOMAIN,download.epicgames.com
+DOMAIN,download2.epicgames.com
+DOMAIN,download3.epicgames.com
+DOMAIN,download4.epicgames.com
+DOMAIN,egs-cloudfront-chunks.epicgamescdn.com
+DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN,epicgames-download1.akamaized.net
+DOMAIN,fastly-download.epicgames.com
+DOMAIN-SUFFIX,egdownload.fastly-edge.com
