@@ -1,0 +1,9 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/AppleCore.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple-cloudkit.com

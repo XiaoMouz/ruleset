@@ -1,0 +1,13 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Other.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,technews.tw
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net

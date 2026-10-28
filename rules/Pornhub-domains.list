@@ -1,0 +1,12 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Pornhub.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,porhub.com
+DOMAIN-SUFFIX,porngub.com
+DOMAIN-SUFFIX,pornhub-deutsch.net
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubapparel.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,pronstore.com

@@ -1,0 +1,7 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Telegram.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+PROCESS-NAME,nekox.messenger
+PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,telegram-desktop
+PROCESS-NAME,tw.nekomimi.nekogram

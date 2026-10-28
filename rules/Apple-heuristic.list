@@ -1,0 +1,10 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Apple.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-KEYWORD,apple-support.akadns.net
+DOMAIN-KEYWORD,apple.com.akadns.net
+DOMAIN-KEYWORD,apple.com.edgekey.net
+DOMAIN-KEYWORD,buy.itunes.apple.com
+DOMAIN-KEYWORD,smp-device
+DOMAIN-KEYWORD,testflight
+DOMAIN-KEYWORD,icloud.com.akadns.net

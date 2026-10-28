@@ -1,0 +1,5 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Stripe.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network

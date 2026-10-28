@@ -1,0 +1,14 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Gemini.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com

@@ -1,0 +1,9 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/PikPak.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net

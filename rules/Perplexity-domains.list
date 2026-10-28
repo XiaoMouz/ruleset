@@ -1,0 +1,6 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Perplexity.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai

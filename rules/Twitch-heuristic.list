@@ -1,0 +1,4 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Twitch.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-KEYWORD,ttvnw

@@ -1,0 +1,8 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Direct.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+IP-CIDR,192.168.0.0/16
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,127.0.0.0/8
+IP-CIDR,100.64.0.0/10

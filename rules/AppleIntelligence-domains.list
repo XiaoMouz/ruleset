@@ -1,0 +1,10 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/AppleIntelligence.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+# Restored at user request
+DOMAIN,cp4.cloudflare.com

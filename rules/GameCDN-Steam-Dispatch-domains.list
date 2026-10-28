@@ -1,0 +1,6 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/GameCDN-Steam-Dispatch.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN,api.steampowered.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net

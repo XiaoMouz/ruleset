@@ -1,0 +1,8 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Openai.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,sora.com

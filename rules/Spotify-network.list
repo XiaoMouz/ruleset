@@ -1,0 +1,6 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Spotify.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+IP-CIDR,104.154.127.126/32,no-resolve
+# Restored at user request
+IP-CIDR,35.186.224.47/32,no-resolve

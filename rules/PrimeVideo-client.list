@@ -1,0 +1,6 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/PrimeVideo.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+USER-AGENT,InstantVideo.US*
+USER-AGENT,Prime%20Video*
+PROCESS-NAME,com.amazon.avod.thirdpartyclient

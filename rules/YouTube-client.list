@@ -1,0 +1,10 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/YouTube.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,com.google.ios.youtubemusic*

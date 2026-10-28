@@ -1,0 +1,9 @@
+# Local priority-audited projection, 2026-10-28
+# Source snapshot: Integrated/rules/Notion.list
+# Original snapshot preserved. Edit this projection to change the active rules.
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
