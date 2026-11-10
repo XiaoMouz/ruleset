@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "identity.apple.com"
+      ],
+      "domain_suffix": [
+        "push.apple.com"
+      ]
+    }
+  ]
+}

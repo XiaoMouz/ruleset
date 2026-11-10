@@ -1,0 +1,603 @@
+{
+  "sets": [
+    "Abema-domains",
+    "Abema-heuristic",
+    "Advertising-heuristic",
+    "Advertising-network",
+    "Apple-client",
+    "Apple-domains",
+    "Apple-heuristic",
+    "Apple-network",
+    "AppleCore-domains",
+    "AppleIntelligence-domains",
+    "AppleIntelligence-heuristic",
+    "Apple_cn-domains",
+    "BBC-domains",
+    "BBC-heuristic",
+    "Bahamut-domains",
+    "BattlenetPlatform-domains",
+    "Bilibili-domains",
+    "Claude-domains",
+    "Cursor-domains",
+    "Dazn-domains",
+    "Dazn-heuristic",
+    "Direct-domains",
+    "Direct-heuristic",
+    "Direct-network",
+    "Discord-domains",
+    "Disney-client",
+    "Disney-domains",
+    "EAPlatform-domains",
+    "EpicPlatform-domains",
+    "FANZA-domains",
+    "Facebook-domains",
+    "Facebook-heuristic",
+    "Facebook-network",
+    "GameCDN-Battlenet-Dispatch-domains",
+    "GameCDN-Battlenet-Download-domains",
+    "GameCDN-EA-Dispatch-domains",
+    "GameCDN-EA-Download-domains",
+    "GameCDN-Epic-Dispatch-domains",
+    "GameCDN-Epic-Download-domains",
+    "GameCDN-Steam-Dispatch-domains",
+    "GameCDN-Steam-Download-domains",
+    "GameCDN-Ubisoft-Dispatch-domains",
+    "GameCDN-Ubisoft-Download-domains",
+    "Gemini-domains",
+    "Google-client",
+    "Google-domains",
+    "Google-heuristic",
+    "Google-network",
+    "Grok-domains",
+    "HBO-client",
+    "HBO-domains",
+    "Hijacking-domains",
+    "Hijacking-network",
+    "Instagram-domains",
+    "Instagram-heuristic",
+    "Line-client",
+    "Line-domains",
+    "Line-network",
+    "Link-domains",
+    "Linkedin-domains",
+    "Microsoft-domains",
+    "Microsoft-heuristic",
+    "Microsoft_cn-domains",
+    "Netflix-domains",
+    "Netflix-network",
+    "Notion-domains",
+    "OpenRouter-domains",
+    "Openai-domains",
+    "Other-domains",
+    "Paypal-domains",
+    "Paypal-heuristic",
+    "Perplexity-domains",
+    "PikPak-domains",
+    "PikPak-heuristic",
+    "Pixiv-domains",
+    "Pornhub-domains",
+    "PrimeVideo-client",
+    "PrimeVideo-domains",
+    "PrimeVideo-heuristic",
+    "Privacy-heuristic",
+    "Privacy-network",
+    "Reddit-domains",
+    "Spotify-client",
+    "Spotify-domains",
+    "Spotify-heuristic",
+    "Spotify-network",
+    "Steam-domains",
+    "Steam-heuristic",
+    "Stripe-domains",
+    "Telegram-client",
+    "Telegram-domains",
+    "Telegram-heuristic",
+    "Telegram-network",
+    "Tiktok-client",
+    "Tiktok-domains",
+    "Tiktok-heuristic",
+    "Twitch-client",
+    "Twitch-domains",
+    "Twitch-heuristic",
+    "Twitch-network",
+    "Twitter-domains",
+    "Twitter-heuristic",
+    "Twitter-network",
+    "UbisoftPlatform-domains",
+    "Whatsapp-domains",
+    "Whatsapp-heuristic",
+    "Whatsapp-network",
+    "YouTube-client",
+    "YouTube-domains",
+    "YouTube-heuristic",
+    "YouTube-network",
+    "apns-domains",
+    "apns-heuristic",
+    "apns-network"
+  ],
+  "clashMrs": {
+    "Abema-domains": "domain",
+    "Advertising-network": "ipcidr",
+    "Apple-domains": "domain",
+    "Apple-network": "ipcidr",
+    "AppleCore-domains": "domain",
+    "AppleIntelligence-domains": "domain",
+    "Apple_cn-domains": "domain",
+    "BBC-domains": "domain",
+    "Bahamut-domains": "domain",
+    "BattlenetPlatform-domains": "domain",
+    "Bilibili-domains": "domain",
+    "Claude-domains": "domain",
+    "Cursor-domains": "domain",
+    "Dazn-domains": "domain",
+    "Direct-domains": "domain",
+    "Direct-network": "ipcidr",
+    "Discord-domains": "domain",
+    "Disney-domains": "domain",
+    "EAPlatform-domains": "domain",
+    "EpicPlatform-domains": "domain",
+    "FANZA-domains": "domain",
+    "Facebook-domains": "domain",
+    "Facebook-network": "ipcidr",
+    "GameCDN-Battlenet-Dispatch-domains": "domain",
+    "GameCDN-Battlenet-Download-domains": "domain",
+    "GameCDN-EA-Dispatch-domains": "domain",
+    "GameCDN-EA-Download-domains": "domain",
+    "GameCDN-Epic-Dispatch-domains": "domain",
+    "GameCDN-Epic-Download-domains": "domain",
+    "GameCDN-Steam-Dispatch-domains": "domain",
+    "GameCDN-Steam-Download-domains": "domain",
+    "GameCDN-Ubisoft-Dispatch-domains": "domain",
+    "GameCDN-Ubisoft-Download-domains": "domain",
+    "Gemini-domains": "domain",
+    "Google-domains": "domain",
+    "Google-network": "ipcidr",
+    "Grok-domains": "domain",
+    "HBO-domains": "domain",
+    "Hijacking-domains": "domain",
+    "Hijacking-network": "ipcidr",
+    "Instagram-domains": "domain",
+    "Line-domains": "domain",
+    "Line-network": "ipcidr",
+    "Link-domains": "domain",
+    "Linkedin-domains": "domain",
+    "Microsoft-domains": "domain",
+    "Microsoft_cn-domains": "domain",
+    "Netflix-domains": "domain",
+    "Netflix-network": "ipcidr",
+    "Notion-domains": "domain",
+    "OpenRouter-domains": "domain",
+    "Openai-domains": "domain",
+    "Other-domains": "domain",
+    "Paypal-domains": "domain",
+    "Perplexity-domains": "domain",
+    "PikPak-domains": "domain",
+    "Pixiv-domains": "domain",
+    "Pornhub-domains": "domain",
+    "PrimeVideo-domains": "domain",
+    "Privacy-network": "ipcidr",
+    "Reddit-domains": "domain",
+    "Spotify-domains": "domain",
+    "Spotify-network": "ipcidr",
+    "Steam-domains": "domain",
+    "Stripe-domains": "domain",
+    "Telegram-domains": "domain",
+    "Tiktok-domains": "domain",
+    "Twitch-domains": "domain",
+    "Twitch-network": "ipcidr",
+    "Twitter-domains": "domain",
+    "Twitter-network": "ipcidr",
+    "UbisoftPlatform-domains": "domain",
+    "Whatsapp-domains": "domain",
+    "Whatsapp-network": "ipcidr",
+    "YouTube-domains": "domain",
+    "YouTube-network": "ipcidr",
+    "apns-domains": "domain",
+    "apns-network": "ipcidr"
+  },
+  "v2rayTags": {
+    "site": [
+      "abema-domains",
+      "abema-heuristic",
+      "advertising-heuristic",
+      "apple-domains",
+      "apple-heuristic",
+      "applecore-domains",
+      "appleintelligence-domains",
+      "appleintelligence-heuristic",
+      "apple_cn-domains",
+      "bbc-domains",
+      "bbc-heuristic",
+      "bahamut-domains",
+      "battlenetplatform-domains",
+      "bilibili-domains",
+      "claude-domains",
+      "cursor-domains",
+      "dazn-domains",
+      "dazn-heuristic",
+      "direct-domains",
+      "direct-heuristic",
+      "discord-domains",
+      "disney-domains",
+      "eaplatform-domains",
+      "epicplatform-domains",
+      "fanza-domains",
+      "facebook-domains",
+      "facebook-heuristic",
+      "gamecdn-battlenet-dispatch-domains",
+      "gamecdn-battlenet-download-domains",
+      "gamecdn-ea-dispatch-domains",
+      "gamecdn-ea-download-domains",
+      "gamecdn-epic-dispatch-domains",
+      "gamecdn-epic-download-domains",
+      "gamecdn-steam-dispatch-domains",
+      "gamecdn-steam-download-domains",
+      "gamecdn-ubisoft-dispatch-domains",
+      "gamecdn-ubisoft-download-domains",
+      "gemini-domains",
+      "google-domains",
+      "google-heuristic",
+      "grok-domains",
+      "hbo-domains",
+      "hijacking-domains",
+      "instagram-domains",
+      "instagram-heuristic",
+      "line-domains",
+      "link-domains",
+      "linkedin-domains",
+      "microsoft-domains",
+      "microsoft-heuristic",
+      "microsoft_cn-domains",
+      "netflix-domains",
+      "notion-domains",
+      "openrouter-domains",
+      "openai-domains",
+      "other-domains",
+      "paypal-domains",
+      "paypal-heuristic",
+      "perplexity-domains",
+      "pikpak-domains",
+      "pikpak-heuristic",
+      "pixiv-domains",
+      "pornhub-domains",
+      "primevideo-domains",
+      "primevideo-heuristic",
+      "privacy-heuristic",
+      "reddit-domains",
+      "spotify-domains",
+      "spotify-heuristic",
+      "steam-domains",
+      "steam-heuristic",
+      "stripe-domains",
+      "telegram-domains",
+      "telegram-heuristic",
+      "tiktok-domains",
+      "tiktok-heuristic",
+      "twitch-domains",
+      "twitch-heuristic",
+      "twitter-domains",
+      "twitter-heuristic",
+      "ubisoftplatform-domains",
+      "whatsapp-domains",
+      "whatsapp-heuristic",
+      "youtube-domains",
+      "youtube-heuristic",
+      "apns-domains",
+      "apns-heuristic"
+    ],
+    "ip": [
+      "advertising-network",
+      "apple-network",
+      "direct-network",
+      "facebook-network",
+      "google-network",
+      "hijacking-network",
+      "line-network",
+      "netflix-network",
+      "privacy-network",
+      "spotify-network",
+      "telegram-network",
+      "twitch-network",
+      "twitter-network",
+      "whatsapp-network",
+      "youtube-network",
+      "apns-network"
+    ]
+  },
+  "dropped": {
+    "surge": [],
+    "clash": [
+      {
+        "set": "Advertising-heuristic",
+        "rules": [
+          "URL-REGEX,^https?:\\/\\/cdn-1rtb\\.caiyunapp\\.com/creative/.*$",
+          "URL-REGEX,^https?:\\/\\/goblin\\.hupu\\.com/[^/]+/[^/]+\\/interfaceAd\\/",
+          "AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))"
+        ]
+      },
+      {
+        "set": "Apple-client",
+        "rules": [
+          "USER-AGENT,*FindMyiPhone?",
+          "USER-AGENT,*Music?",
+          "USER-AGENT,*WeatherFoundation*",
+          "USER-AGENT,*com.apple.Maps?",
+          "USER-AGENT,*com.apple.mobileme.fmip1",
+          "USER-AGENT,FMDClient*",
+          "USER-AGENT,FMFD*",
+          "USER-AGENT,FindMyFriends*",
+          "USER-AGENT,FindMyiPhone*",
+          "USER-AGENT,Maps*",
+          "USER-AGENT,Wallet*",
+          "USER-AGENT,com.apple.Maps",
+          "USER-AGENT,com.apple.appstored*",
+          "USER-AGENT,fmflocatord*",
+          "USER-AGENT,geod*",
+          "USER-AGENT,locationd*",
+          "USER-AGENT,passd*",
+          "USER-AGENT,Music*",
+          "USER-AGENT,AppleNews*",
+          "USER-AGENT,com.apple.news*",
+          "USER-AGENT,com.apple.trustd*",
+          "USER-AGENT,AppleTV*",
+          "USER-AGENT,com.apple.tv*"
+        ]
+      },
+      {
+        "set": "Google-client",
+        "rules": [
+          "USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*",
+          "USER-AGENT,*com.google.Drive*",
+          "USER-AGENT,Google.Drive*"
+        ]
+      },
+      {
+        "set": "PrimeVideo-client",
+        "rules": [
+          "USER-AGENT,InstantVideo.US*",
+          "USER-AGENT,Prime%20Video*"
+        ]
+      },
+      {
+        "set": "Spotify-client",
+        "rules": [
+          "USER-AGENT,Spotify*"
+        ]
+      },
+      {
+        "set": "YouTube-client",
+        "rules": [
+          "USER-AGENT,*YouTubeMusic*",
+          "USER-AGENT,*com.google.ios.youtubemusic*",
+          "USER-AGENT,*youtube*",
+          "USER-AGENT,YouTube*",
+          "USER-AGENT,YouTubeMusic*",
+          "USER-AGENT,com.google.ios.youtube*",
+          "USER-AGENT,com.google.ios.youtubemusic*"
+        ]
+      }
+    ],
+    "sing-box": [
+      {
+        "set": "Advertising-heuristic",
+        "rules": [
+          "URL-REGEX,^https?:\\/\\/cdn-1rtb\\.caiyunapp\\.com/creative/.*$",
+          "URL-REGEX,^https?:\\/\\/goblin\\.hupu\\.com/[^/]+/[^/]+\\/interfaceAd\\/",
+          "AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))"
+        ]
+      },
+      {
+        "set": "Apple-client",
+        "rules": [
+          "USER-AGENT,*FindMyiPhone?",
+          "USER-AGENT,*Music?",
+          "USER-AGENT,*WeatherFoundation*",
+          "USER-AGENT,*com.apple.Maps?",
+          "USER-AGENT,*com.apple.mobileme.fmip1",
+          "USER-AGENT,FMDClient*",
+          "USER-AGENT,FMFD*",
+          "USER-AGENT,FindMyFriends*",
+          "USER-AGENT,FindMyiPhone*",
+          "USER-AGENT,Maps*",
+          "USER-AGENT,Wallet*",
+          "USER-AGENT,com.apple.Maps",
+          "USER-AGENT,com.apple.appstored*",
+          "USER-AGENT,fmflocatord*",
+          "USER-AGENT,geod*",
+          "USER-AGENT,locationd*",
+          "USER-AGENT,passd*",
+          "USER-AGENT,Music*",
+          "USER-AGENT,AppleNews*",
+          "USER-AGENT,com.apple.news*",
+          "USER-AGENT,com.apple.trustd*",
+          "USER-AGENT,AppleTV*",
+          "USER-AGENT,com.apple.tv*"
+        ]
+      },
+      {
+        "set": "Google-client",
+        "rules": [
+          "USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*",
+          "USER-AGENT,*com.google.Drive*",
+          "USER-AGENT,Google.Drive*"
+        ]
+      },
+      {
+        "set": "PrimeVideo-client",
+        "rules": [
+          "USER-AGENT,InstantVideo.US*",
+          "USER-AGENT,Prime%20Video*"
+        ]
+      },
+      {
+        "set": "Spotify-client",
+        "rules": [
+          "USER-AGENT,Spotify*"
+        ]
+      },
+      {
+        "set": "Telegram-network",
+        "rules": [
+          "IP-ASN,211157,no-resolve",
+          "IP-ASN,44907,no-resolve",
+          "IP-ASN,59930,no-resolve",
+          "IP-ASN,62014,no-resolve",
+          "IP-ASN,62041,no-resolve"
+        ]
+      },
+      {
+        "set": "YouTube-client",
+        "rules": [
+          "USER-AGENT,*YouTubeMusic*",
+          "USER-AGENT,*com.google.ios.youtubemusic*",
+          "USER-AGENT,*youtube*",
+          "USER-AGENT,YouTube*",
+          "USER-AGENT,YouTubeMusic*",
+          "USER-AGENT,com.google.ios.youtube*",
+          "USER-AGENT,com.google.ios.youtubemusic*"
+        ]
+      }
+    ],
+    "v2ray": [
+      {
+        "set": "Advertising-heuristic",
+        "rules": [
+          "URL-REGEX,^https?:\\/\\/cdn-1rtb\\.caiyunapp\\.com/creative/.*$",
+          "URL-REGEX,^https?:\\/\\/goblin\\.hupu\\.com/[^/]+/[^/]+\\/interfaceAd\\/",
+          "AND,((USER-AGENT,Frodo*),(DOMAIN,119.29.29.29))"
+        ]
+      },
+      {
+        "set": "Apple-client",
+        "rules": [
+          "USER-AGENT,*FindMyiPhone?",
+          "USER-AGENT,*Music?",
+          "USER-AGENT,*WeatherFoundation*",
+          "USER-AGENT,*com.apple.Maps?",
+          "USER-AGENT,*com.apple.mobileme.fmip1",
+          "USER-AGENT,FMDClient*",
+          "USER-AGENT,FMFD*",
+          "USER-AGENT,FindMyFriends*",
+          "USER-AGENT,FindMyiPhone*",
+          "USER-AGENT,Maps*",
+          "USER-AGENT,Wallet*",
+          "USER-AGENT,com.apple.Maps",
+          "USER-AGENT,com.apple.appstored*",
+          "USER-AGENT,fmflocatord*",
+          "USER-AGENT,geod*",
+          "USER-AGENT,locationd*",
+          "USER-AGENT,passd*",
+          "USER-AGENT,Music*",
+          "USER-AGENT,AppleNews*",
+          "USER-AGENT,com.apple.news*",
+          "USER-AGENT,com.apple.trustd*",
+          "USER-AGENT,AppleTV*",
+          "USER-AGENT,com.apple.tv*",
+          "PROCESS-NAME,CoreLocationAgent",
+          "PROCESS-NAME,WeatherWidget",
+          "PROCESS-NAME,apsd",
+          "PROCESS-NAME,com.apple.Maps",
+          "PROCESS-NAME,findmydevice-user-agent",
+          "PROCESS-NAME,fmfd",
+          "PROCESS-NAME,mapspushd",
+          "PROCESS-NAME,netbiosd",
+          "PROCESS-NAME,trustd",
+          "PROCESS-NAME,com.apple.geod",
+          "PROCESS-NAME,Music",
+          "PROCESS-NAME,LookupViewService",
+          "PROCESS-NAME,TV"
+        ]
+      },
+      {
+        "set": "Disney-client",
+        "rules": [
+          "PROCESS-NAME,com.disney.datg.videoplatforms.android.abc",
+          "PROCESS-NAME,com.disney.disneyplus"
+        ]
+      },
+      {
+        "set": "Google-client",
+        "rules": [
+          "USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*",
+          "USER-AGENT,*com.google.Drive*",
+          "USER-AGENT,Google.Drive*",
+          "PROCESS-NAME,com.android.vending",
+          "PROCESS-NAME,com.google.android.gms",
+          "PROCESS-NAME,com.google.android.gsf",
+          "PROCESS-NAME,com.google.android.play.games",
+          "PROCESS-NAME,BackupandSync"
+        ]
+      },
+      {
+        "set": "HBO-client",
+        "rules": [
+          "PROCESS-NAME,com.hbo.hbonow"
+        ]
+      },
+      {
+        "set": "Line-client",
+        "rules": [
+          "PROCESS-NAME,com.linecorp.linetv"
+        ]
+      },
+      {
+        "set": "PrimeVideo-client",
+        "rules": [
+          "USER-AGENT,InstantVideo.US*",
+          "USER-AGENT,Prime%20Video*",
+          "PROCESS-NAME,com.amazon.avod.thirdpartyclient"
+        ]
+      },
+      {
+        "set": "Spotify-client",
+        "rules": [
+          "PROCESS-NAME,com.spotify.music",
+          "USER-AGENT,Spotify*"
+        ]
+      },
+      {
+        "set": "Telegram-client",
+        "rules": [
+          "PROCESS-NAME,nekox.messenger",
+          "PROCESS-NAME,org.telegram.messenger",
+          "PROCESS-NAME,telegram-desktop",
+          "PROCESS-NAME,tw.nekomimi.nekogram"
+        ]
+      },
+      {
+        "set": "Telegram-network",
+        "rules": [
+          "IP-ASN,211157,no-resolve",
+          "IP-ASN,44907,no-resolve",
+          "IP-ASN,59930,no-resolve",
+          "IP-ASN,62014,no-resolve",
+          "IP-ASN,62041,no-resolve"
+        ]
+      },
+      {
+        "set": "Tiktok-client",
+        "rules": [
+          "PROCESS-NAME,com.zhiliaoapp.musically"
+        ]
+      },
+      {
+        "set": "Twitch-client",
+        "rules": [
+          "PROCESS-NAME,tv.twitch.android.app"
+        ]
+      },
+      {
+        "set": "YouTube-client",
+        "rules": [
+          "USER-AGENT,*YouTubeMusic*",
+          "USER-AGENT,*com.google.ios.youtubemusic*",
+          "USER-AGENT,*youtube*",
+          "USER-AGENT,YouTube*",
+          "USER-AGENT,YouTubeMusic*",
+          "USER-AGENT,com.google.ios.youtube*",
+          "USER-AGENT,com.google.ios.youtubemusic*"
+        ]
+      }
+    ]
+  }
+}

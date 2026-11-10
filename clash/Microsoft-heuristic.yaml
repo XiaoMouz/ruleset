@@ -1,0 +1,5 @@
+# Microsoft-heuristic
+payload:
+  - 'DOMAIN-KEYWORD,1drv'
+  - 'DOMAIN-KEYWORD,microsoft'
+  - 'DOMAIN-KEYWORD,hotmail'

@@ -1,0 +1,4 @@
+# Spotify-heuristic
+payload:
+  - 'DOMAIN-KEYWORD,-spotify-'
+  - 'DOMAIN-KEYWORD,spotify.com'

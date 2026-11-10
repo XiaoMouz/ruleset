@@ -1,0 +1,8 @@
+# AppleCore-domains
+payload:
+  - 'DOMAIN-SUFFIX,apple.com'
+  - 'DOMAIN-SUFFIX,icloud.com'
+  - 'DOMAIN-SUFFIX,icloud-content.com'
+  - 'DOMAIN-SUFFIX,mzstatic.com'
+  - 'DOMAIN-SUFFIX,aaplimg.com'
+  - 'DOMAIN-SUFFIX,apple-cloudkit.com'

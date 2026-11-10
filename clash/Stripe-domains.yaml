@@ -1,0 +1,4 @@
+# Stripe-domains
+payload:
+  - 'DOMAIN-SUFFIX,stripe.com'
+  - 'DOMAIN-SUFFIX,stripe.network'

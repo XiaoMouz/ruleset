@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "dmm.co.jp",
+        "dmm.com",
+        "dmmapis.com",
+        "dmm-extension.com",
+        "navismithapis-cdn.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "process_name": [
+        "nekox.messenger",
+        "org.telegram.messenger",
+        "telegram-desktop",
+        "tw.nekomimi.nekogram"
+      ]
+    }
+  ]
+}

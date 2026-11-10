@@ -1,0 +1,4 @@
+# GameCDN-EA-Dispatch-domains
+payload:
+  - 'DOMAIN,api1.origin.com'
+  - 'DOMAIN,api2.origin.com'
